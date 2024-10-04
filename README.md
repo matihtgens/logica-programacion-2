@@ -39,5 +39,5 @@ Prueba el programa con diferentes valores numéricos para asegurarte de que func
    git clone https://github.com/tu-usuario/logica-programacion-2.git
 
 
-*Matias H Torres*
-*Generation Chile*
+*Matias H Torres*  
+*Generation Chile*  
