@@ -30,6 +30,7 @@ Este es un programa en JavaScript que convierte temperaturas desde grados Celsiu
   - Grados Kelvin: 287.15
   - Grados Fahrenheit: 57.2
 
+
 Prueba el programa con diferentes valores numéricos para asegurarte de que funcione correctamente.
 
 ## Instalación

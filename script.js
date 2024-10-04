@@ -31,5 +31,6 @@ function convertirTemperatura() {
     `;
 }
 
+
 // Llamar a la función para iniciar el programa
 convertirTemperatura();
